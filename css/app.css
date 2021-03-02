@@ -6007,7 +6007,7 @@ body:not(.touch-device) .owl-item:hover .details__preview {
     margin: 130px 0 0 -63px;
   }
   .details__btn .btn {
-    min-width: 100%;
+    /* min-width: 100%; */
   }
   .footer__preview:nth-child(2) {
     top: 300px;
