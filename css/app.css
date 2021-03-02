@@ -2050,7 +2050,7 @@ a.btn {
 }
 
 .header__logo .header__pic {
-  width: 174px;
+  width: 100px;
 }
 
 .header__social {
@@ -4679,7 +4679,7 @@ body:not(.touch-device) .owl-item:hover .details__preview {
     margin-right: 68px;
   }
   .header__logo .header__pic {
-    width: 122px;
+    width: 70px;
   }
   .header__social_inner {
     left: 380px;
@@ -5398,7 +5398,7 @@ body:not(.touch-device) .owl-item:hover .details__preview {
     margin-right: auto;
   }
   .header__logo .header__pic {
-    width: 133px;
+    width: 70px;
   }
   .header__social_main {
     display: none;
